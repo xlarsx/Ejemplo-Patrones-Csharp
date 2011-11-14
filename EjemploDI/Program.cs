@@ -13,7 +13,30 @@ namespace EjemploDI
 	class Program
 	{
 		/// <summary>
-		/// Ejemplo que muestra buenos patrones de Programación Orientada a Objetos.
+		/// Ejemplo que muestra buenos patrones de Programacion Orientada a Objetos.
+		/// Referencia:
+		/// <list type="bullet">
+		/// 	<item> 
+		/// 		<term> Interfaces (Guia de programacion de C#) </term>
+		/// 		<description> http://msdn.microsoft.com/es-es/library/ms173156(v=vs.80).aspx </description>
+		/// 	</item>
+		/// 	<item>
+		/// 		<term> Inheritance and Polymorphism </term>
+		/// 		<description> http://www.expresscomputeronline.com/20021118/techspace2.shtml </description>
+		/// 	</item>
+		/// 	<item>
+		/// 		<term> Dependency Injection for Loose Coupling </term>
+		/// 		<description> http://www.codeproject.com/KB/architecture/DependencyInjection.aspx </description>
+		/// 	</item>
+		/// 	<item>
+		/// 		<term> C# is and as operators </term>
+		/// 		<description> http://ekrishnakumar.wordpress.com/2006/07/08/c-is-and-as-operators/ </description>
+		/// 	</item>
+		/// 	<item>
+		/// 		<term> An Introduction to Reflection in C# </term>
+		/// 		<description>	http://www.codeguru.com/csharp/csharp/cs_misc/reflection/article.php/c4257 </description>
+		/// 	</item>
+		/// </list>
 		/// </summary>
 		/// <param name="args"></param>
 		public static void Main(string[] args)
